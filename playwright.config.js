@@ -10,13 +10,13 @@ const config = {
     trace: "on-first-retry",
   },
   projects: [
-    {
+    /* {
       name: "Microsoft Edge",
       use: {
         // Supported Microsoft Edge channels are: msedge, msedge-beta, msedge-dev, msedge-canary
         channel: "msedge",
       },
-    },
+    }, */
     {
       name: "chromium",
       use: { ...devices["Desktop Chrome"] },
