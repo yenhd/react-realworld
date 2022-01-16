@@ -13,6 +13,7 @@ git clone https://github.com/yenhd/react-realworld.git
 
 2. Install Node module
 ```
+cd react-realworld
 npm install
 ```
 
